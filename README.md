@@ -17,6 +17,7 @@
 ```bash
 pRRT1AZw
 ```
+![image](https://github.com/jdnei/9527/blob/main/9527/495824903580shiyong.jpg?raw=ture)
 ## 优惠码/折扣码
 ```bash
 
@@ -51,14 +52,14 @@ pRRT1AZw
 
 ## 📊 性能实测与分析
 #### 1.1电信晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/8349725975cmct.png?raw=true)</br>
 #### 1.2联通晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/9045204958cmcu.png?raw=true)</br>
 #### 1.3移动晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/84725438957cmcc.png?raw=true)</br>
 #### 2.1AI解锁报告
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/3490258039485ai.png?raw=true)</br>
 #### 2.2流媒体解锁报告
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/438927598347598test.png?raw=true)</br>
 #### 3.落地入口分析
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/9527/blob/main/9527/9045820934580ana.png?raw=true)</br>
