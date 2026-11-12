@@ -3,9 +3,9 @@
 
 # 9527机场官方地址(2026年11月11日更新)
 9527机场官网地址</br>
-最新地址01：[9omvqop5.9527.now](https://9omvqop5.9527.now/#/register?code=pRRT1AZw)</br>
-最新地址02：[xpp7iakl.9527.now](https://xpp7iakl.9527.now/#/register?code=pRRT1AZw)</br>
-官方地址：[9527.bot](https://9527.bot)</br>
+最新地址01：[9omvqop5.9527.now](https://to.iix.im/952701)</br>
+最新地址02：[xpp7iakl.9527.now](https://to.iix.im/952702)</br>
+官方地址：[9527.bot](https://to.iix.im/952703)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
