@@ -30,7 +30,7 @@ pRRT1AZw
 
 | 套餐               | 流量         | 价格        | 付款周期                           | 同时在线设备 | 线路类型                              | 节点倍率           | 流媒体 / AI 解锁                                                                   | 特色 / 备注                  |
 | ---------------- | ---------- | --------- | ------------------------------ | ------ | --------------------------------- | -------------- | ----------------------------------------------------------------------------- | ------------------------ |
-| 臻选三网新人体验套餐       | 50GB / 月   | ¥9.90 / 月 | 月付                             | 不限    | 电信 CN2 GIA / 联通 AS9929 / 移动 CMIN2 | 部分节点 0.3–0.5 倍 | Netflix、Disney+、HBO Max、Prime Video、YouTube；ChatGPT、Gemini、Copilot、Midjourney | 新用户限购一次，不可续费、不享折扣；适合外服游戏 |
+| 臻选三网新人体验套餐       | 50GB / 月   | ¥9.90 / 月 | 月付                             | 1 台    | 电信 CN2 GIA / 联通 AS9929 / 移动 CMIN2 | 部分节点 0.3–0.5 倍 | Netflix、Disney+、HBO Max、Prime Video、YouTube；ChatGPT、Gemini、Copilot、Midjourney | 新用户限购一次，不可续费、不享折扣；适合外服游戏 |
 | 臻选三网专线 · 50GB版   | 50GB / 月   | ¥14 / 月   | 月付 / 季付 / 半年付 / 年付 / 两年付 / 三年付 | 不限     | 电信 CN2 GIA / 联通 AS9929 / 移动 CMIN2 | 部分节点 0.3–0.5 倍 | Netflix、Disney+、HBO Max、Prime Video、YouTube；ChatGPT、Gemini、Copilot、Midjourney | 年付约85折；适合多设备使用           |
 | 臻选三网专线 · 100GB版  | 100GB / 月  | ¥25 / 月   | 月付 / 季付 / 半年付 / 年付 / 两年付 / 三年付 | 不限     | 电信 CN2 GIA / 联通 AS9929 / 移动 CMIN2 | 部分节点 0.3–0.5 倍 | Netflix、Disney+、HBO Max、Prime Video、YouTube；ChatGPT、Gemini、Copilot、Midjourney | 年付约85折；适合多设备使用           |
 | 臻选三网专线 · 200GB版  | 200GB / 月  | ¥49 / 月   | 月付 / 季付 / 半年付 / 年付 / 两年付 / 三年付 | 不限     | 电信 CN2 GIA / 联通 AS9929 / 移动 CMIN2 | 部分节点 0.3–0.5 倍 | Netflix、Disney+、HBO Max、Prime Video、YouTube；ChatGPT、Gemini、Copilot、Midjourney | 年付约85折；适合多设备使用           |
