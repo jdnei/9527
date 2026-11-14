@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# 9527机场官方地址(2026年11月13日更新)
+# 9527机场官方地址(2026年11月14日更新)
 9527机场官网地址</br>
 最新地址01：[9omvqop5.9527.now](https://to.iix.im/952701)</br>
 最新地址02：[xpp7iakl.9527.now](https://to.iix.im/952702)</br>
